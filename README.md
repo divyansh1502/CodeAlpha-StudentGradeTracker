@@ -30,6 +30,6 @@ The project is developed as part of my **CodeAlpha Internship** under the domain
 
 ## 🎥 Project Demo
 
-[Click here to download/view the demo video]([./project_demo.mp4](https://youtu.be/nxcouBrGXTc))
+[Click here to view the demo video](https://www.youtube.com/watch?v=nxcouBrGXTc)
 
 
